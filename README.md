@@ -4,7 +4,7 @@ Want to have some fun with your friends? Run this gamble!
 
 To find out what it does, read the .py-files (ruins the surprise) although you may customize these to make it even more hardcore!
 
-## Dependencies
+## Dependencies (Only needed for compiling)
 
 1. pyinstaller
 
